@@ -8,7 +8,6 @@ public class Main {
     public static void main(String[] args) {
             String jdbcURL = "jdbc:postgresql://ec2-52-48-137-75.eu-west-1.compute.amazonaws.com:5432/d3g3g6r529vc82";
             String username = "ncxfuopnggexwd";
-            String password = "9580b37322a2510577a6558369ebe941fc87eac98eb4328aa9d5b23ad1c2f802";
         try {
             Connection connection = DriverManager.getConnection(jdbcURL,username,password);
             System.out.println("Connected to Postgresql server successfully");
