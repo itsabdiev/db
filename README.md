@@ -34,3 +34,5 @@ public class Main {
 }
 
 ```
+
+https://github.com/diogoalex01/FEUP-LBAW/blob/master/resources/sql/database.sql
